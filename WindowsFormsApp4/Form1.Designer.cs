@@ -112,7 +112,7 @@ namespace WindowsFormsApp4
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(57, 551);
+            this.label1.Location = new System.Drawing.Point(58, 418);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(539, 65);
             this.label1.TabIndex = 7;
